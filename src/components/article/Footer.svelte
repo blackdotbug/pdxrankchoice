@@ -8,10 +8,10 @@
         <p>Heather Bree is a data visualization specialist and data nerd in Portland, Oregon.</p> 
         <p id="social">
             <a href="https://bsky.app/profile/hbree.bsky.social">
-                <img src="../assets/Bluesky_Logo.png" alt="bluesky blue butterfly logo">
+                <img src="assets/Bluesky_Logo.png" alt="bluesky blue butterfly logo">
             </a>
             <a href="https://github.com/blackdotbug">
-                <img src="../assets/github-mark.png" alt="github logo">
+                <img src="assets/github-mark.png" alt="github logo">
             </a>
         </p> 
     </div>
