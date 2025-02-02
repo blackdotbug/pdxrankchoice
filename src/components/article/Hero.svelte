@@ -9,7 +9,7 @@
 			    {el.value}
 		    </svelte:element>
         {/each}
-        <img src="/assets/sample-ballot-no-directions-smaller-ballot.png" alt="sample ballot with ranks filled in"/>
+        <img src="assets/sample-ballot-no-directions-smaller-ballot.png" alt="sample ballot with ranks filled in"/>
         <p>by Heather Bree</p>
       </div>
     <div id="arrow_container">
