@@ -1,0 +1,623 @@
+{
+  "config" : {
+    "contest" : "City_of_Portland__Mayor_2024_11_29_17_26_12",
+    "date" : "2024-11-05",
+    "jurisdiction" : "City of Portland",
+    "office" : "City of Portland, Mayor",
+    "threshold" : "129977"
+  },
+  "results" : [ {
+    "round" : 1,
+    "tally" : {
+      "Alexander Landry Neely" : "1863",
+      "Carmen Rubio" : "69215",
+      "Durrell Kinsey Bey" : "2685",
+      "Dustin Witherspoon" : "934",
+      "James A Zehren" : "0",
+      "James Atkinson IV" : "571",
+      "James Macdonald" : "1041",
+      "Josh Leake" : "2340",
+      "Keith Wilson" : "104389",
+      "Liv (Viva) Osthus" : "20188",
+      "Martin Ward" : "2064",
+      "Michael Hayes" : "1760",
+      "Michael Necula" : "324",
+      "Michael O'Callaghan" : "2033",
+      "Mingus Mapps" : "39679",
+      "Rene Gonzalez" : "55267",
+      "Saadiq Ali" : "862",
+      "Sharon Nasset" : "2149",
+      "Shei'Meka (BeUtee) As-Salaam" : "1164",
+      "Uncertified Write In" : "634",
+      "Yao Jun He" : "801"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "James A Zehren",
+      "transfers" : { }
+    } ]
+  }, {
+    "round" : 2,
+    "tally" : {
+      "Alexander Landry Neely" : "1863",
+      "Carmen Rubio" : "69215",
+      "Durrell Kinsey Bey" : "2685",
+      "Dustin Witherspoon" : "934",
+      "James Atkinson IV" : "571",
+      "James Macdonald" : "1041",
+      "Josh Leake" : "2340",
+      "Keith Wilson" : "104389",
+      "Liv (Viva) Osthus" : "20188",
+      "Martin Ward" : "2064",
+      "Michael Hayes" : "1760",
+      "Michael Necula" : "324",
+      "Michael O'Callaghan" : "2033",
+      "Mingus Mapps" : "39679",
+      "Rene Gonzalez" : "55267",
+      "Saadiq Ali" : "862",
+      "Sharon Nasset" : "2149",
+      "Shei'Meka (BeUtee) As-Salaam" : "1164",
+      "Uncertified Write In" : "634",
+      "Yao Jun He" : "801"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Michael Necula",
+      "transfers" : {
+        "Alexander Landry Neely" : "5",
+        "Carmen Rubio" : "11",
+        "Durrell Kinsey Bey" : "9",
+        "Dustin Witherspoon" : "15",
+        "James Atkinson IV" : "9",
+        "James Macdonald" : "58",
+        "Josh Leake" : "5",
+        "Keith Wilson" : "21",
+        "Liv (Viva) Osthus" : "6",
+        "Martin Ward" : "8",
+        "Michael Hayes" : "8",
+        "Michael O'Callaghan" : "14",
+        "Mingus Mapps" : "9",
+        "Rene Gonzalez" : "26",
+        "Saadiq Ali" : "6",
+        "Sharon Nasset" : "6",
+        "Shei'Meka (BeUtee) As-Salaam" : "6",
+        "Yao Jun He" : "6",
+        "exhausted" : "96"
+      }
+    } ]
+  }, {
+    "round" : 3,
+    "tally" : {
+      "Alexander Landry Neely" : "1868",
+      "Carmen Rubio" : "69226",
+      "Durrell Kinsey Bey" : "2694",
+      "Dustin Witherspoon" : "949",
+      "James Atkinson IV" : "580",
+      "James Macdonald" : "1099",
+      "Josh Leake" : "2345",
+      "Keith Wilson" : "104410",
+      "Liv (Viva) Osthus" : "20194",
+      "Martin Ward" : "2072",
+      "Michael Hayes" : "1768",
+      "Michael O'Callaghan" : "2047",
+      "Mingus Mapps" : "39688",
+      "Rene Gonzalez" : "55293",
+      "Saadiq Ali" : "868",
+      "Sharon Nasset" : "2155",
+      "Shei'Meka (BeUtee) As-Salaam" : "1170",
+      "Uncertified Write In" : "634",
+      "Yao Jun He" : "807"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "James Atkinson IV",
+      "transfers" : {
+        "Alexander Landry Neely" : "35",
+        "Carmen Rubio" : "39",
+        "Durrell Kinsey Bey" : "60",
+        "Dustin Witherspoon" : "13",
+        "James Macdonald" : "31",
+        "Josh Leake" : "18",
+        "Keith Wilson" : "43",
+        "Liv (Viva) Osthus" : "46",
+        "Martin Ward" : "7",
+        "Michael Hayes" : "18",
+        "Michael O'Callaghan" : "31",
+        "Mingus Mapps" : "35",
+        "Rene Gonzalez" : "24",
+        "Saadiq Ali" : "26",
+        "Sharon Nasset" : "19",
+        "Shei'Meka (BeUtee) As-Salaam" : "20",
+        "Yao Jun He" : "12",
+        "exhausted" : "103"
+      }
+    } ]
+  }, {
+    "round" : 4,
+    "tally" : {
+      "Alexander Landry Neely" : "1903",
+      "Carmen Rubio" : "69265",
+      "Durrell Kinsey Bey" : "2754",
+      "Dustin Witherspoon" : "962",
+      "James Macdonald" : "1130",
+      "Josh Leake" : "2363",
+      "Keith Wilson" : "104453",
+      "Liv (Viva) Osthus" : "20240",
+      "Martin Ward" : "2079",
+      "Michael Hayes" : "1786",
+      "Michael O'Callaghan" : "2078",
+      "Mingus Mapps" : "39723",
+      "Rene Gonzalez" : "55317",
+      "Saadiq Ali" : "894",
+      "Sharon Nasset" : "2174",
+      "Shei'Meka (BeUtee) As-Salaam" : "1190",
+      "Uncertified Write In" : "634",
+      "Yao Jun He" : "819"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Uncertified Write In",
+      "transfers" : {
+        "Alexander Landry Neely" : "4",
+        "Carmen Rubio" : "41",
+        "Durrell Kinsey Bey" : "8",
+        "Dustin Witherspoon" : "4",
+        "James Macdonald" : "4",
+        "Josh Leake" : "5",
+        "Keith Wilson" : "32",
+        "Liv (Viva) Osthus" : "35",
+        "Martin Ward" : "8",
+        "Michael Hayes" : "11",
+        "Michael O'Callaghan" : "7",
+        "Mingus Mapps" : "38",
+        "Rene Gonzalez" : "47",
+        "Saadiq Ali" : "7",
+        "Sharon Nasset" : "8",
+        "Shei'Meka (BeUtee) As-Salaam" : "8",
+        "Yao Jun He" : "13",
+        "exhausted" : "354"
+      }
+    } ]
+  }, {
+    "round" : 5,
+    "tally" : {
+      "Alexander Landry Neely" : "1907",
+      "Carmen Rubio" : "69306",
+      "Durrell Kinsey Bey" : "2762",
+      "Dustin Witherspoon" : "966",
+      "James Macdonald" : "1134",
+      "Josh Leake" : "2368",
+      "Keith Wilson" : "104485",
+      "Liv (Viva) Osthus" : "20275",
+      "Martin Ward" : "2087",
+      "Michael Hayes" : "1797",
+      "Michael O'Callaghan" : "2085",
+      "Mingus Mapps" : "39761",
+      "Rene Gonzalez" : "55364",
+      "Saadiq Ali" : "901",
+      "Sharon Nasset" : "2182",
+      "Shei'Meka (BeUtee) As-Salaam" : "1198",
+      "Yao Jun He" : "832"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Yao Jun He",
+      "transfers" : {
+        "Alexander Landry Neely" : "20",
+        "Carmen Rubio" : "67",
+        "Durrell Kinsey Bey" : "14",
+        "Dustin Witherspoon" : "16",
+        "James Macdonald" : "33",
+        "Josh Leake" : "23",
+        "Keith Wilson" : "41",
+        "Liv (Viva) Osthus" : "54",
+        "Martin Ward" : "21",
+        "Michael Hayes" : "29",
+        "Michael O'Callaghan" : "36",
+        "Mingus Mapps" : "51",
+        "Rene Gonzalez" : "84",
+        "Saadiq Ali" : "61",
+        "Sharon Nasset" : "33",
+        "Shei'Meka (BeUtee) As-Salaam" : "74",
+        "exhausted" : "175"
+      }
+    } ]
+  }, {
+    "round" : 6,
+    "tally" : {
+      "Alexander Landry Neely" : "1927",
+      "Carmen Rubio" : "69373",
+      "Durrell Kinsey Bey" : "2776",
+      "Dustin Witherspoon" : "982",
+      "James Macdonald" : "1167",
+      "Josh Leake" : "2391",
+      "Keith Wilson" : "104526",
+      "Liv (Viva) Osthus" : "20329",
+      "Martin Ward" : "2108",
+      "Michael Hayes" : "1826",
+      "Michael O'Callaghan" : "2121",
+      "Mingus Mapps" : "39812",
+      "Rene Gonzalez" : "55448",
+      "Saadiq Ali" : "962",
+      "Sharon Nasset" : "2215",
+      "Shei'Meka (BeUtee) As-Salaam" : "1272"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Saadiq Ali",
+      "transfers" : {
+        "Alexander Landry Neely" : "17",
+        "Carmen Rubio" : "50",
+        "Durrell Kinsey Bey" : "54",
+        "Dustin Witherspoon" : "16",
+        "James Macdonald" : "25",
+        "Josh Leake" : "15",
+        "Keith Wilson" : "39",
+        "Liv (Viva) Osthus" : "64",
+        "Martin Ward" : "24",
+        "Michael Hayes" : "15",
+        "Michael O'Callaghan" : "23",
+        "Mingus Mapps" : "91",
+        "Rene Gonzalez" : "96",
+        "Sharon Nasset" : "45",
+        "Shei'Meka (BeUtee) As-Salaam" : "221",
+        "exhausted" : "167"
+      }
+    } ]
+  }, {
+    "round" : 7,
+    "tally" : {
+      "Alexander Landry Neely" : "1944",
+      "Carmen Rubio" : "69423",
+      "Durrell Kinsey Bey" : "2830",
+      "Dustin Witherspoon" : "998",
+      "James Macdonald" : "1192",
+      "Josh Leake" : "2406",
+      "Keith Wilson" : "104565",
+      "Liv (Viva) Osthus" : "20393",
+      "Martin Ward" : "2132",
+      "Michael Hayes" : "1841",
+      "Michael O'Callaghan" : "2144",
+      "Mingus Mapps" : "39903",
+      "Rene Gonzalez" : "55544",
+      "Sharon Nasset" : "2260",
+      "Shei'Meka (BeUtee) As-Salaam" : "1493"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Dustin Witherspoon",
+      "transfers" : {
+        "Alexander Landry Neely" : "44",
+        "Carmen Rubio" : "64",
+        "Durrell Kinsey Bey" : "42",
+        "James Macdonald" : "88",
+        "Josh Leake" : "20",
+        "Keith Wilson" : "97",
+        "Liv (Viva) Osthus" : "53",
+        "Martin Ward" : "45",
+        "Michael Hayes" : "29",
+        "Michael O'Callaghan" : "63",
+        "Mingus Mapps" : "48",
+        "Rene Gonzalez" : "135",
+        "Sharon Nasset" : "47",
+        "Shei'Meka (BeUtee) As-Salaam" : "20",
+        "exhausted" : "203"
+      }
+    } ]
+  }, {
+    "round" : 8,
+    "tally" : {
+      "Alexander Landry Neely" : "1988",
+      "Carmen Rubio" : "69487",
+      "Durrell Kinsey Bey" : "2872",
+      "James Macdonald" : "1280",
+      "Josh Leake" : "2426",
+      "Keith Wilson" : "104662",
+      "Liv (Viva) Osthus" : "20446",
+      "Martin Ward" : "2177",
+      "Michael Hayes" : "1870",
+      "Michael O'Callaghan" : "2207",
+      "Mingus Mapps" : "39951",
+      "Rene Gonzalez" : "55679",
+      "Sharon Nasset" : "2307",
+      "Shei'Meka (BeUtee) As-Salaam" : "1513"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "James Macdonald",
+      "transfers" : {
+        "Alexander Landry Neely" : "67",
+        "Carmen Rubio" : "85",
+        "Durrell Kinsey Bey" : "41",
+        "Josh Leake" : "76",
+        "Keith Wilson" : "92",
+        "Liv (Viva) Osthus" : "33",
+        "Martin Ward" : "56",
+        "Michael Hayes" : "99",
+        "Michael O'Callaghan" : "89",
+        "Mingus Mapps" : "59",
+        "Rene Gonzalez" : "127",
+        "Sharon Nasset" : "73",
+        "Shei'Meka (BeUtee) As-Salaam" : "14",
+        "exhausted" : "369"
+      }
+    } ]
+  }, {
+    "round" : 9,
+    "tally" : {
+      "Alexander Landry Neely" : "2055",
+      "Carmen Rubio" : "69572",
+      "Durrell Kinsey Bey" : "2913",
+      "Josh Leake" : "2502",
+      "Keith Wilson" : "104754",
+      "Liv (Viva) Osthus" : "20479",
+      "Martin Ward" : "2233",
+      "Michael Hayes" : "1969",
+      "Michael O'Callaghan" : "2296",
+      "Mingus Mapps" : "40010",
+      "Rene Gonzalez" : "55806",
+      "Sharon Nasset" : "2380",
+      "Shei'Meka (BeUtee) As-Salaam" : "1527"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Shei'Meka (BeUtee) As-Salaam",
+      "transfers" : {
+        "Alexander Landry Neely" : "46",
+        "Carmen Rubio" : "177",
+        "Durrell Kinsey Bey" : "177",
+        "Josh Leake" : "46",
+        "Keith Wilson" : "94",
+        "Liv (Viva) Osthus" : "271",
+        "Martin Ward" : "18",
+        "Michael Hayes" : "45",
+        "Michael O'Callaghan" : "49",
+        "Mingus Mapps" : "144",
+        "Rene Gonzalez" : "155",
+        "Sharon Nasset" : "83",
+        "exhausted" : "222"
+      }
+    } ]
+  }, {
+    "round" : 10,
+    "tally" : {
+      "Alexander Landry Neely" : "2101",
+      "Carmen Rubio" : "69749",
+      "Durrell Kinsey Bey" : "3090",
+      "Josh Leake" : "2548",
+      "Keith Wilson" : "104848",
+      "Liv (Viva) Osthus" : "20750",
+      "Martin Ward" : "2251",
+      "Michael Hayes" : "2014",
+      "Michael O'Callaghan" : "2345",
+      "Mingus Mapps" : "40154",
+      "Rene Gonzalez" : "55961",
+      "Sharon Nasset" : "2463"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Michael Hayes",
+      "transfers" : {
+        "Alexander Landry Neely" : "94",
+        "Carmen Rubio" : "220",
+        "Durrell Kinsey Bey" : "48",
+        "Josh Leake" : "152",
+        "Keith Wilson" : "331",
+        "Liv (Viva) Osthus" : "109",
+        "Martin Ward" : "59",
+        "Michael O'Callaghan" : "130",
+        "Mingus Mapps" : "272",
+        "Rene Gonzalez" : "201",
+        "Sharon Nasset" : "117",
+        "exhausted" : "281"
+      }
+    } ]
+  }, {
+    "round" : 11,
+    "tally" : {
+      "Alexander Landry Neely" : "2195",
+      "Carmen Rubio" : "69969",
+      "Durrell Kinsey Bey" : "3138",
+      "Josh Leake" : "2700",
+      "Keith Wilson" : "105179",
+      "Liv (Viva) Osthus" : "20859",
+      "Martin Ward" : "2310",
+      "Michael O'Callaghan" : "2475",
+      "Mingus Mapps" : "40426",
+      "Rene Gonzalez" : "56162",
+      "Sharon Nasset" : "2580"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Alexander Landry Neely",
+      "transfers" : {
+        "Carmen Rubio" : "310",
+        "Durrell Kinsey Bey" : "82",
+        "Josh Leake" : "108",
+        "Keith Wilson" : "318",
+        "Liv (Viva) Osthus" : "482",
+        "Martin Ward" : "66",
+        "Michael O'Callaghan" : "163",
+        "Mingus Mapps" : "199",
+        "Rene Gonzalez" : "106",
+        "Sharon Nasset" : "123",
+        "exhausted" : "238"
+      }
+    } ]
+  }, {
+    "round" : 12,
+    "tally" : {
+      "Carmen Rubio" : "70279",
+      "Durrell Kinsey Bey" : "3220",
+      "Josh Leake" : "2808",
+      "Keith Wilson" : "105497",
+      "Liv (Viva) Osthus" : "21341",
+      "Martin Ward" : "2376",
+      "Michael O'Callaghan" : "2638",
+      "Mingus Mapps" : "40625",
+      "Rene Gonzalez" : "56268",
+      "Sharon Nasset" : "2703"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Martin Ward",
+      "transfers" : {
+        "Carmen Rubio" : "92",
+        "Durrell Kinsey Bey" : "86",
+        "Josh Leake" : "79",
+        "Keith Wilson" : "345",
+        "Liv (Viva) Osthus" : "143",
+        "Michael O'Callaghan" : "185",
+        "Mingus Mapps" : "130",
+        "Rene Gonzalez" : "360",
+        "Sharon Nasset" : "123",
+        "exhausted" : "833"
+      }
+    } ]
+  }, {
+    "round" : 13,
+    "tally" : {
+      "Carmen Rubio" : "70371",
+      "Durrell Kinsey Bey" : "3306",
+      "Josh Leake" : "2887",
+      "Keith Wilson" : "105842",
+      "Liv (Viva) Osthus" : "21484",
+      "Michael O'Callaghan" : "2823",
+      "Mingus Mapps" : "40755",
+      "Rene Gonzalez" : "56628",
+      "Sharon Nasset" : "2826"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Michael O'Callaghan",
+      "transfers" : {
+        "Carmen Rubio" : "273",
+        "Durrell Kinsey Bey" : "189",
+        "Josh Leake" : "184",
+        "Keith Wilson" : "503",
+        "Liv (Viva) Osthus" : "519",
+        "Mingus Mapps" : "212",
+        "Rene Gonzalez" : "231",
+        "Sharon Nasset" : "220",
+        "exhausted" : "492"
+      }
+    } ]
+  }, {
+    "round" : 14,
+    "tally" : {
+      "Carmen Rubio" : "70644",
+      "Durrell Kinsey Bey" : "3495",
+      "Josh Leake" : "3071",
+      "Keith Wilson" : "106345",
+      "Liv (Viva) Osthus" : "22003",
+      "Mingus Mapps" : "40967",
+      "Rene Gonzalez" : "56859",
+      "Sharon Nasset" : "3046"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Sharon Nasset",
+      "transfers" : {
+        "Carmen Rubio" : "378",
+        "Durrell Kinsey Bey" : "96",
+        "Josh Leake" : "221",
+        "Keith Wilson" : "421",
+        "Liv (Viva) Osthus" : "351",
+        "Mingus Mapps" : "434",
+        "Rene Gonzalez" : "465",
+        "exhausted" : "680"
+      }
+    } ]
+  }, {
+    "round" : 15,
+    "tally" : {
+      "Carmen Rubio" : "71022",
+      "Durrell Kinsey Bey" : "3591",
+      "Josh Leake" : "3292",
+      "Keith Wilson" : "106766",
+      "Liv (Viva) Osthus" : "22354",
+      "Mingus Mapps" : "41401",
+      "Rene Gonzalez" : "57324"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Josh Leake",
+      "transfers" : {
+        "Carmen Rubio" : "539",
+        "Durrell Kinsey Bey" : "90",
+        "Keith Wilson" : "674",
+        "Liv (Viva) Osthus" : "364",
+        "Mingus Mapps" : "537",
+        "Rene Gonzalez" : "377",
+        "exhausted" : "711"
+      }
+    } ]
+  }, {
+    "round" : 16,
+    "tally" : {
+      "Carmen Rubio" : "71561",
+      "Durrell Kinsey Bey" : "3681",
+      "Keith Wilson" : "107440",
+      "Liv (Viva) Osthus" : "22718",
+      "Mingus Mapps" : "41938",
+      "Rene Gonzalez" : "57701"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Durrell Kinsey Bey",
+      "transfers" : {
+        "Carmen Rubio" : "629",
+        "Keith Wilson" : "819",
+        "Liv (Viva) Osthus" : "866",
+        "Mingus Mapps" : "360",
+        "Rene Gonzalez" : "257",
+        "exhausted" : "750"
+      }
+    } ]
+  }, {
+    "round" : 17,
+    "tally" : {
+      "Carmen Rubio" : "72190",
+      "Keith Wilson" : "108259",
+      "Liv (Viva) Osthus" : "23584",
+      "Mingus Mapps" : "42298",
+      "Rene Gonzalez" : "57958"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Liv (Viva) Osthus",
+      "transfers" : {
+        "Carmen Rubio" : "8377",
+        "Keith Wilson" : "7297",
+        "Mingus Mapps" : "2858",
+        "Rene Gonzalez" : "1147",
+        "exhausted" : "3905"
+      }
+    } ]
+  }, {
+    "round" : 18,
+    "tally" : {
+      "Carmen Rubio" : "80567",
+      "Keith Wilson" : "115556",
+      "Mingus Mapps" : "45156",
+      "Rene Gonzalez" : "59105"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Mingus Mapps",
+      "transfers" : {
+        "Carmen Rubio" : "11609",
+        "Keith Wilson" : "11952",
+        "Rene Gonzalez" : "11058",
+        "exhausted" : "10537"
+      }
+    } ]
+  }, {
+    "round" : 19,
+    "tally" : {
+      "Carmen Rubio" : "92176",
+      "Keith Wilson" : "127508",
+      "Rene Gonzalez" : "70163"
+    },
+    "tallyResults" : [ {
+      "eliminated" : "Rene Gonzalez",
+      "transfers" : {
+        "Carmen Rubio" : "14255",
+        "Keith Wilson" : "26014",
+        "exhausted" : "29894"
+      }
+    } ]
+  }, {
+    "round" : 20,
+    "tally" : {
+      "Carmen Rubio" : "106431",
+      "Keith Wilson" : "153522"
+    },
+    "tallyResults" : [ {
+      "elected" : "Keith Wilson",
+      "transfers" : { }
+    } ]
+  } ]
+}

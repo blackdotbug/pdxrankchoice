@@ -1,0 +1,42 @@
+{
+	"meta": { 
+		"title": "How the Rounds Went Down", 
+		"description": "A visual analysis of how Portland's first foray into ranked choice voting went, round by round.",
+		"url": "/" 
+	},
+	"body": [
+		{
+			"section": "intro",
+			"content": [
+				{ "type": "h1", "value": "How the Rounds Went Down" },
+				{
+					"type": "h3",
+					"value": "A visual analysis of how Portland's first foray into ranked choice voting went, round by round."
+				}
+			]
+		}, {
+			"section": "lede",
+			"content": [
+				{
+					"type": "p",
+					"value": "Portland's new style of government, <a href='https://www.portlandmercury.com/election-2022/2022/11/09/46183399/portland-voters-approved-sweeping-charter-reforms-what-happens-now'>approved in 2022 by voters</a>, included a new voting system and a redesign of our mail-in ballots. In November 2024, the new mayor and all 12 new city council members were elected via <a href='https://www.portland.gov/vote/ranked-choice-voting'>a ranked-choice voting system</a>. Voters could rank up to six candidates for each position they were eligible to vote for, in their order of preference. A deep dive into the mayoral race can demystify the process, showing how Portland has implemented this style of voting, which has been <a href='https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States'>adopted in three states, the District of Columbia, and roughly 40 local municipalities</a> scattered across the US."
+				}
+			]
+		}, {
+			"section": "body",
+			"content": [
+				{"type": "p", "text": "At the very beginning Keith Wilson started strong, as about 68% of his total vote count can be attributed to those who ranked him first on their ballots."},
+				{"type": "p", "text": "The combined round one vote count of the first 15 candidates to be elminated was 21,225. If any candidate received a ranking after they'd already been eliminated those votes went to the exhausted category on the far bottom right."},
+				{"type": "p", "text": "In round eighteen, when Liv (Viva) Osthus was eliminated, 16.5% of her accumulated votes were exhausted, 35.5% went to Carmen Rubio, 31% went to Keith Wilson, 12% went to Mingus Mapps, and 5% went to Rene Gonzalez."},
+				{"type": "p", "text": "23% of Mingus Mapps's accumulated votes were exhausted in round 19, with the rest being fairly evenly split among the remaining three candidates."},
+				{"type": "p", "text": "A whopping 43% of Rene Gonzalez's accumulated votes were exhausted next, meaning more than 10,000 ballots either didn't rank anyone after Gonzalez or anyone they'd ranked after Gonzalez had already been eliminated. 20% of the remaining went to Rubio and 37% went to Wilson."},
+				{"type": "p", "text": "The election threshold is the number of votes a candidate must have in a round to be elected to the position. It is calculated as a percentage of the total active votes in a round, thus as the rounds progress, and votes become exhausted, the threshold changes. For the mayoral race, the election threshold must be more than half of the votes in play in the round."},
+				{"type": "p", "text": "The first candidate who gets eliminated and their votes transfered is Michael Necula in round two, and almost 30% of his 324 votes are exhausted."},
+				{"type": "p", "text": "In round three nearly 18% of James Atkinson IV's votes are exhausted, and so on and so forth as candidates are eliminated..."},
+				{"type": "p", "text": "...until the last three rounds, when bigger portions of votes are exhausted from each candidate and the threshold starts moving down faster. In round seventeen, 23% of Migus Mapps's 45,156 votes are exhausted."},
+				{"type": "p", "text": "When Rene Gonzalez is eliminated, 29,894 of his votes were exhausted, which moved the threshold to 129,977. Then 14,255 of Gonzalez's votes were transfered to Rubio and 26,014 to Wilson, pushing Wilson across the election threshold."},
+				{"type": "p", "text": "Wilson's final vote total is 153,522, which is actually over the threshold as it was back in round thirteen but at that point in time Wilson's vote total 105,842. It would take the transfers of the next seven candidates before Wilson could accumulate those votes."}
+			]
+		}
+	]
+}

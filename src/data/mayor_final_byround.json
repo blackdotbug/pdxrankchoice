@@ -1,0 +1,1826 @@
+[
+  {
+    "candidate": "Keith Wilson",
+    "round": 1,
+    "votes": 104389,
+    "change": 21,
+    "outcome": 104410,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 1,
+    "votes": 69215,
+    "change": 11,
+    "outcome": 69226,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 1,
+    "votes": 55267,
+    "change": 26,
+    "outcome": 55293,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 1,
+    "votes": 39679,
+    "change": 9,
+    "outcome": 39688,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 1,
+    "votes": 20188,
+    "change": 6,
+    "outcome": 20194,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 1,
+    "votes": 2685,
+    "change": 9,
+    "outcome": 2694,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 1,
+    "votes": 2340,
+    "change": 5,
+    "outcome": 2345,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 1,
+    "votes": 2149,
+    "change": 6,
+    "outcome": 2155,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 1,
+    "votes": 2064,
+    "change": 8,
+    "outcome": 2072,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 1,
+    "votes": 2033,
+    "change": 14,
+    "outcome": 2047,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 1,
+    "votes": 1863,
+    "change": 5,
+    "outcome": 1868,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 1,
+    "votes": 1760,
+    "change": 8,
+    "outcome": 1768,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 1,
+    "votes": 1164,
+    "change": 6,
+    "outcome": 1170,
+    "status": ""
+  },
+  {
+    "candidate": "James Macdonald",
+    "round": 1,
+    "votes": 1041,
+    "change": 58,
+    "outcome": 1099,
+    "status": ""
+  },
+  {
+    "candidate": "Dustin Witherspoon",
+    "round": 1,
+    "votes": 934,
+    "change": 15,
+    "outcome": 949,
+    "status": ""
+  },
+  {
+    "candidate": "Saadiq Ali",
+    "round": 1,
+    "votes": 862,
+    "change": 6,
+    "outcome": 868,
+    "status": ""
+  },
+  {
+    "candidate": "Yao Jun He",
+    "round": 1,
+    "votes": 801,
+    "change": 6,
+    "outcome": 807,
+    "status": ""
+  },
+  {
+    "candidate": "Uncertified Write In",
+    "round": 1,
+    "votes": 634,
+    "change": "",
+    "outcome": 634,
+    "status": ""
+  },
+  {
+    "candidate": "James Atkinson IV",
+    "round": 1,
+    "votes": 571,
+    "change": 9,
+    "outcome": 580,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Necula",
+    "round": 1,
+    "votes": 324,
+    "change": -324,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 1,
+    "votes": -96,
+    "change": "",
+    "outcome": 96,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 2,
+    "votes": 104410,
+    "change": 43,
+    "outcome": 104453,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 2,
+    "votes": 69226,
+    "change": 39,
+    "outcome": 69265,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 2,
+    "votes": 55293,
+    "change": 24,
+    "outcome": 55317,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 2,
+    "votes": 39688,
+    "change": 35,
+    "outcome": 39723,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 2,
+    "votes": 20194,
+    "change": 46,
+    "outcome": 20240,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 2,
+    "votes": 2694,
+    "change": 60,
+    "outcome": 2754,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 2,
+    "votes": 2345,
+    "change": 18,
+    "outcome": 2363,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 2,
+    "votes": 2155,
+    "change": 19,
+    "outcome": 2174,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 2,
+    "votes": 2072,
+    "change": 7,
+    "outcome": 2079,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 2,
+    "votes": 2047,
+    "change": 31,
+    "outcome": 2078,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 2,
+    "votes": 1868,
+    "change": 35,
+    "outcome": 1903,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 2,
+    "votes": 1768,
+    "change": 18,
+    "outcome": 1786,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 2,
+    "votes": 1170,
+    "change": 20,
+    "outcome": 1190,
+    "status": ""
+  },
+  {
+    "candidate": "James Macdonald",
+    "round": 2,
+    "votes": 1099,
+    "change": 31,
+    "outcome": 1130,
+    "status": ""
+  },
+  {
+    "candidate": "Dustin Witherspoon",
+    "round": 2,
+    "votes": 949,
+    "change": 13,
+    "outcome": 962,
+    "status": ""
+  },
+  {
+    "candidate": "Saadiq Ali",
+    "round": 2,
+    "votes": 868,
+    "change": 26,
+    "outcome": 894,
+    "status": ""
+  },
+  {
+    "candidate": "Yao Jun He",
+    "round": 2,
+    "votes": 807,
+    "change": 12,
+    "outcome": 819,
+    "status": ""
+  },
+  {
+    "candidate": "Uncertified Write In",
+    "round": 2,
+    "votes": 634,
+    "change": "",
+    "outcome": 634,
+    "status": ""
+  },
+  {
+    "candidate": "James Atkinson IV",
+    "round": 2,
+    "votes": 580,
+    "change": -580,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 2,
+    "votes": -103,
+    "change": "",
+    "outcome": 103,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 3,
+    "votes": 104453,
+    "change": 32,
+    "outcome": 104485,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 3,
+    "votes": 69265,
+    "change": 41,
+    "outcome": 69306,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 3,
+    "votes": 55317,
+    "change": 47,
+    "outcome": 55364,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 3,
+    "votes": 39723,
+    "change": 38,
+    "outcome": 39761,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 3,
+    "votes": 20240,
+    "change": 35,
+    "outcome": 20275,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 3,
+    "votes": 2754,
+    "change": 8,
+    "outcome": 2762,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 3,
+    "votes": 2363,
+    "change": 5,
+    "outcome": 2368,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 3,
+    "votes": 2174,
+    "change": 8,
+    "outcome": 2182,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 3,
+    "votes": 2079,
+    "change": 8,
+    "outcome": 2087,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 3,
+    "votes": 2078,
+    "change": 7,
+    "outcome": 2085,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 3,
+    "votes": 1903,
+    "change": 4,
+    "outcome": 1907,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 3,
+    "votes": 1786,
+    "change": 11,
+    "outcome": 1797,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 3,
+    "votes": 1190,
+    "change": 8,
+    "outcome": 1198,
+    "status": ""
+  },
+  {
+    "candidate": "James Macdonald",
+    "round": 3,
+    "votes": 1130,
+    "change": 4,
+    "outcome": 1134,
+    "status": ""
+  },
+  {
+    "candidate": "Dustin Witherspoon",
+    "round": 3,
+    "votes": 962,
+    "change": 4,
+    "outcome": 966,
+    "status": ""
+  },
+  {
+    "candidate": "Saadiq Ali",
+    "round": 3,
+    "votes": 894,
+    "change": 7,
+    "outcome": 901,
+    "status": ""
+  },
+  {
+    "candidate": "Yao Jun He",
+    "round": 3,
+    "votes": 819,
+    "change": 13,
+    "outcome": 832,
+    "status": ""
+  },
+  {
+    "candidate": "Uncertified Write In",
+    "round": 3,
+    "votes": 634,
+    "change": -634,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 3,
+    "votes": -354,
+    "change": "",
+    "outcome": 354,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 4,
+    "votes": 104485,
+    "change": 41,
+    "outcome": 104526,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 4,
+    "votes": 69306,
+    "change": 67,
+    "outcome": 69373,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 4,
+    "votes": 55364,
+    "change": 84,
+    "outcome": 55448,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 4,
+    "votes": 39761,
+    "change": 51,
+    "outcome": 39812,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 4,
+    "votes": 20275,
+    "change": 54,
+    "outcome": 20329,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 4,
+    "votes": 2762,
+    "change": 14,
+    "outcome": 2776,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 4,
+    "votes": 2368,
+    "change": 23,
+    "outcome": 2391,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 4,
+    "votes": 2182,
+    "change": 33,
+    "outcome": 2215,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 4,
+    "votes": 2087,
+    "change": 21,
+    "outcome": 2108,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 4,
+    "votes": 2085,
+    "change": 36,
+    "outcome": 2121,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 4,
+    "votes": 1907,
+    "change": 20,
+    "outcome": 1927,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 4,
+    "votes": 1797,
+    "change": 29,
+    "outcome": 1826,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 4,
+    "votes": 1198,
+    "change": 74,
+    "outcome": 1272,
+    "status": ""
+  },
+  {
+    "candidate": "James Macdonald",
+    "round": 4,
+    "votes": 1134,
+    "change": 33,
+    "outcome": 1167,
+    "status": ""
+  },
+  {
+    "candidate": "Dustin Witherspoon",
+    "round": 4,
+    "votes": 966,
+    "change": 16,
+    "outcome": 982,
+    "status": ""
+  },
+  {
+    "candidate": "Saadiq Ali",
+    "round": 4,
+    "votes": 901,
+    "change": 61,
+    "outcome": 962,
+    "status": ""
+  },
+  {
+    "candidate": "Yao Jun He",
+    "round": 4,
+    "votes": 832,
+    "change": -832,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 4,
+    "votes": -175,
+    "change": "",
+    "outcome": 175,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 5,
+    "votes": 104526,
+    "change": 39,
+    "outcome": 104565,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 5,
+    "votes": 69373,
+    "change": 50,
+    "outcome": 69423,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 5,
+    "votes": 55448,
+    "change": 96,
+    "outcome": 55544,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 5,
+    "votes": 39812,
+    "change": 91,
+    "outcome": 39903,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 5,
+    "votes": 20329,
+    "change": 64,
+    "outcome": 20393,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 5,
+    "votes": 2776,
+    "change": 54,
+    "outcome": 2830,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 5,
+    "votes": 2391,
+    "change": 15,
+    "outcome": 2406,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 5,
+    "votes": 2215,
+    "change": 45,
+    "outcome": 2260,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 5,
+    "votes": 2108,
+    "change": 24,
+    "outcome": 2132,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 5,
+    "votes": 2121,
+    "change": 23,
+    "outcome": 2144,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 5,
+    "votes": 1927,
+    "change": 17,
+    "outcome": 1944,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 5,
+    "votes": 1826,
+    "change": 15,
+    "outcome": 1841,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 5,
+    "votes": 1272,
+    "change": 221,
+    "outcome": 1493,
+    "status": ""
+  },
+  {
+    "candidate": "James Macdonald",
+    "round": 5,
+    "votes": 1167,
+    "change": 25,
+    "outcome": 1192,
+    "status": ""
+  },
+  {
+    "candidate": "Dustin Witherspoon",
+    "round": 5,
+    "votes": 982,
+    "change": 16,
+    "outcome": 998,
+    "status": ""
+  },
+  {
+    "candidate": "Saadiq Ali",
+    "round": 5,
+    "votes": 962,
+    "change": -962,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 5,
+    "votes": -167,
+    "change": "",
+    "outcome": 167,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 6,
+    "votes": 104565,
+    "change": 97,
+    "outcome": 104662,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 6,
+    "votes": 69423,
+    "change": 64,
+    "outcome": 69487,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 6,
+    "votes": 55544,
+    "change": 135,
+    "outcome": 55679,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 6,
+    "votes": 39903,
+    "change": 48,
+    "outcome": 39951,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 6,
+    "votes": 20393,
+    "change": 53,
+    "outcome": 20446,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 6,
+    "votes": 2830,
+    "change": 42,
+    "outcome": 2872,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 6,
+    "votes": 2406,
+    "change": 20,
+    "outcome": 2426,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 6,
+    "votes": 2260,
+    "change": 47,
+    "outcome": 2307,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 6,
+    "votes": 2132,
+    "change": 45,
+    "outcome": 2177,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 6,
+    "votes": 2144,
+    "change": 63,
+    "outcome": 2207,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 6,
+    "votes": 1944,
+    "change": 44,
+    "outcome": 1988,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 6,
+    "votes": 1841,
+    "change": 29,
+    "outcome": 1870,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 6,
+    "votes": 1493,
+    "change": 20,
+    "outcome": 1513,
+    "status": ""
+  },
+  {
+    "candidate": "James Macdonald",
+    "round": 6,
+    "votes": 1192,
+    "change": 88,
+    "outcome": 1280,
+    "status": ""
+  },
+  {
+    "candidate": "Dustin Witherspoon",
+    "round": 6,
+    "votes": 998,
+    "change": -998,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 6,
+    "votes": -203,
+    "change": "",
+    "outcome": 203,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 7,
+    "votes": 104662,
+    "change": 92,
+    "outcome": 104754,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 7,
+    "votes": 69487,
+    "change": 85,
+    "outcome": 69572,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 7,
+    "votes": 55679,
+    "change": 127,
+    "outcome": 55806,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 7,
+    "votes": 39951,
+    "change": 59,
+    "outcome": 40010,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 7,
+    "votes": 20446,
+    "change": 33,
+    "outcome": 20479,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 7,
+    "votes": 2872,
+    "change": 41,
+    "outcome": 2913,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 7,
+    "votes": 2426,
+    "change": 76,
+    "outcome": 2502,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 7,
+    "votes": 2307,
+    "change": 73,
+    "outcome": 2380,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 7,
+    "votes": 2177,
+    "change": 56,
+    "outcome": 2233,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 7,
+    "votes": 2207,
+    "change": 89,
+    "outcome": 2296,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 7,
+    "votes": 1988,
+    "change": 67,
+    "outcome": 2055,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 7,
+    "votes": 1870,
+    "change": 99,
+    "outcome": 1969,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 7,
+    "votes": 1513,
+    "change": 14,
+    "outcome": 1527,
+    "status": ""
+  },
+  {
+    "candidate": "James Macdonald",
+    "round": 7,
+    "votes": 1280,
+    "change": -1280,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 7,
+    "votes": -369,
+    "change": "",
+    "outcome": 369,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 8,
+    "votes": 104754,
+    "change": 94,
+    "outcome": 104848,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 8,
+    "votes": 69572,
+    "change": 177,
+    "outcome": 69749,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 8,
+    "votes": 55806,
+    "change": 155,
+    "outcome": 55961,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 8,
+    "votes": 40010,
+    "change": 144,
+    "outcome": 40154,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 8,
+    "votes": 20479,
+    "change": 271,
+    "outcome": 20750,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 8,
+    "votes": 2913,
+    "change": 177,
+    "outcome": 3090,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 8,
+    "votes": 2502,
+    "change": 46,
+    "outcome": 2548,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 8,
+    "votes": 2380,
+    "change": 83,
+    "outcome": 2463,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 8,
+    "votes": 2233,
+    "change": 18,
+    "outcome": 2251,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 8,
+    "votes": 2296,
+    "change": 49,
+    "outcome": 2345,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 8,
+    "votes": 2055,
+    "change": 46,
+    "outcome": 2101,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 8,
+    "votes": 1969,
+    "change": 45,
+    "outcome": 2014,
+    "status": ""
+  },
+  {
+    "candidate": "Shei'Meka (BeUtee) As-Salaam",
+    "round": 8,
+    "votes": 1527,
+    "change": -1527,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 8,
+    "votes": -222,
+    "change": "",
+    "outcome": 222,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 9,
+    "votes": 104848,
+    "change": 331,
+    "outcome": 105179,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 9,
+    "votes": 69749,
+    "change": 220,
+    "outcome": 69969,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 9,
+    "votes": 55961,
+    "change": 201,
+    "outcome": 56162,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 9,
+    "votes": 40154,
+    "change": 272,
+    "outcome": 40426,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 9,
+    "votes": 20750,
+    "change": 109,
+    "outcome": 20859,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 9,
+    "votes": 3090,
+    "change": 48,
+    "outcome": 3138,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 9,
+    "votes": 2548,
+    "change": 152,
+    "outcome": 2700,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 9,
+    "votes": 2463,
+    "change": 117,
+    "outcome": 2580,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 9,
+    "votes": 2251,
+    "change": 59,
+    "outcome": 2310,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 9,
+    "votes": 2345,
+    "change": 130,
+    "outcome": 2475,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 9,
+    "votes": 2101,
+    "change": 94,
+    "outcome": 2195,
+    "status": ""
+  },
+  {
+    "candidate": "Michael Hayes",
+    "round": 9,
+    "votes": 2014,
+    "change": -2014,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 9,
+    "votes": -281,
+    "change": "",
+    "outcome": 281,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 10,
+    "votes": 105179,
+    "change": 318,
+    "outcome": 105497,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 10,
+    "votes": 69969,
+    "change": 310,
+    "outcome": 70279,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 10,
+    "votes": 56162,
+    "change": 106,
+    "outcome": 56268,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 10,
+    "votes": 40426,
+    "change": 199,
+    "outcome": 40625,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 10,
+    "votes": 20859,
+    "change": 482,
+    "outcome": 21341,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 10,
+    "votes": 3138,
+    "change": 82,
+    "outcome": 3220,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 10,
+    "votes": 2700,
+    "change": 108,
+    "outcome": 2808,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 10,
+    "votes": 2580,
+    "change": 123,
+    "outcome": 2703,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 10,
+    "votes": 2310,
+    "change": 66,
+    "outcome": 2376,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 10,
+    "votes": 2475,
+    "change": 163,
+    "outcome": 2638,
+    "status": ""
+  },
+  {
+    "candidate": "Alexander Landry Neely",
+    "round": 10,
+    "votes": 2195,
+    "change": -2195,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 10,
+    "votes": -238,
+    "change": "",
+    "outcome": 238,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 11,
+    "votes": 105497,
+    "change": 345,
+    "outcome": 105842,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 11,
+    "votes": 70279,
+    "change": 92,
+    "outcome": 70371,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 11,
+    "votes": 56268,
+    "change": 360,
+    "outcome": 56628,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 11,
+    "votes": 40625,
+    "change": 130,
+    "outcome": 40755,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 11,
+    "votes": 21341,
+    "change": 143,
+    "outcome": 21484,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 11,
+    "votes": 3220,
+    "change": 86,
+    "outcome": 3306,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 11,
+    "votes": 2808,
+    "change": 79,
+    "outcome": 2887,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 11,
+    "votes": 2703,
+    "change": 123,
+    "outcome": 2826,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 11,
+    "votes": 2638,
+    "change": 185,
+    "outcome": 2823,
+    "status": ""
+  },
+  {
+    "candidate": "Martin Ward",
+    "round": 11,
+    "votes": 2376,
+    "change": -2376,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 11,
+    "votes": -833,
+    "change": "",
+    "outcome": 833,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 12,
+    "votes": 105842,
+    "change": 503,
+    "outcome": 106345,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 12,
+    "votes": 70371,
+    "change": 273,
+    "outcome": 70644,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 12,
+    "votes": 56628,
+    "change": 231,
+    "outcome": 56859,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 12,
+    "votes": 40755,
+    "change": 212,
+    "outcome": 40967,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 12,
+    "votes": 21484,
+    "change": 519,
+    "outcome": 22003,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 12,
+    "votes": 3306,
+    "change": 189,
+    "outcome": 3495,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 12,
+    "votes": 2887,
+    "change": 184,
+    "outcome": 3071,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 12,
+    "votes": 2826,
+    "change": 220,
+    "outcome": 3046,
+    "status": ""
+  },
+  {
+    "candidate": "Michael O'Callaghan",
+    "round": 12,
+    "votes": 2823,
+    "change": -2823,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 12,
+    "votes": -492,
+    "change": "",
+    "outcome": 492,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 13,
+    "votes": 106345,
+    "change": 421,
+    "outcome": 106766,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 13,
+    "votes": 70644,
+    "change": 378,
+    "outcome": 71022,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 13,
+    "votes": 56859,
+    "change": 465,
+    "outcome": 57324,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 13,
+    "votes": 40967,
+    "change": 434,
+    "outcome": 41401,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 13,
+    "votes": 22003,
+    "change": 351,
+    "outcome": 22354,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 13,
+    "votes": 3495,
+    "change": 96,
+    "outcome": 3591,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 13,
+    "votes": 3071,
+    "change": 221,
+    "outcome": 3292,
+    "status": ""
+  },
+  {
+    "candidate": "Sharon Nasset",
+    "round": 13,
+    "votes": 3046,
+    "change": -3046,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 13,
+    "votes": -680,
+    "change": "",
+    "outcome": 680,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 14,
+    "votes": 106766,
+    "change": 674,
+    "outcome": 107440,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 14,
+    "votes": 71022,
+    "change": 539,
+    "outcome": 71561,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 14,
+    "votes": 57324,
+    "change": 377,
+    "outcome": 57701,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 14,
+    "votes": 41401,
+    "change": 537,
+    "outcome": 41938,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 14,
+    "votes": 22354,
+    "change": 364,
+    "outcome": 22718,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 14,
+    "votes": 3591,
+    "change": 90,
+    "outcome": 3681,
+    "status": ""
+  },
+  {
+    "candidate": "Josh Leake",
+    "round": 14,
+    "votes": 3292,
+    "change": -3292,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 14,
+    "votes": -711,
+    "change": "",
+    "outcome": 711,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 15,
+    "votes": 107440,
+    "change": 819,
+    "outcome": 108259,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 15,
+    "votes": 71561,
+    "change": 629,
+    "outcome": 72190,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 15,
+    "votes": 57701,
+    "change": 257,
+    "outcome": 57958,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 15,
+    "votes": 41938,
+    "change": 360,
+    "outcome": 42298,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 15,
+    "votes": 22718,
+    "change": 866,
+    "outcome": 23584,
+    "status": ""
+  },
+  {
+    "candidate": "Durrell Kinsey Bey",
+    "round": 15,
+    "votes": 3681,
+    "change": -3681,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 15,
+    "votes": -750,
+    "change": "",
+    "outcome": 750,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 16,
+    "votes": 108259,
+    "change": 7297,
+    "outcome": 115556,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 16,
+    "votes": 72190,
+    "change": 8377,
+    "outcome": 80567,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 16,
+    "votes": 57958,
+    "change": 1147,
+    "outcome": 59105,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 16,
+    "votes": 42298,
+    "change": 2858,
+    "outcome": 45156,
+    "status": ""
+  },
+  {
+    "candidate": "Liv (Viva) Osthus",
+    "round": 16,
+    "votes": 23584,
+    "change": -23584,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 16,
+    "votes": -3905,
+    "change": "",
+    "outcome": 3905,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 17,
+    "votes": 115556,
+    "change": 11952,
+    "outcome": 127508,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 17,
+    "votes": 80567,
+    "change": 11609,
+    "outcome": 92176,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 17,
+    "votes": 59105,
+    "change": 11058,
+    "outcome": 70163,
+    "status": ""
+  },
+  {
+    "candidate": "Mingus Mapps",
+    "round": 17,
+    "votes": 45156,
+    "change": -45156,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 17,
+    "votes": -10537,
+    "change": "",
+    "outcome": 10537,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 18,
+    "votes": 127508,
+    "change": 26014,
+    "outcome": 153522,
+    "status": ""
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 18,
+    "votes": 92176,
+    "change": 14255,
+    "outcome": 106431,
+    "status": ""
+  },
+  {
+    "candidate": "Rene Gonzalez",
+    "round": 18,
+    "votes": 70163,
+    "change": -70163,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 18,
+    "votes": -29894,
+    "change": "",
+    "outcome": 29894,
+    "status": ""
+  },
+  {
+    "candidate": "Keith Wilson",
+    "round": 19,
+    "votes": 153522,
+    "change": 0,
+    "outcome": 153522,
+    "status": "elected"
+  },
+  {
+    "candidate": "Carmen Rubio",
+    "round": 19,
+    "votes": 106431,
+    "change": -106431,
+    "outcome": 0,
+    "status": "eliminated"
+  },
+  {
+    "candidate": "exhausted",
+    "round": 18,
+    "votes": -106431,
+    "change": "",
+    "outcome": 106431,
+    "status": ""
+  }
+]
